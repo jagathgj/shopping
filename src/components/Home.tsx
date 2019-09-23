@@ -28,7 +28,7 @@ import { addToCart } from './actions/cartActions'
         })
 
         return(
-            <div className="container py-4">
+            <div className="container py-4 mt-5">
                 <h3 className="text-left">Products</h3>
                 <div className="d-flex flex-wrap">
                     {itemList}

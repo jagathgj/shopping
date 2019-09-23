@@ -54,7 +54,7 @@ class Cart extends Component<any>{
                 <p>No items in the cart</p>
              )
        return(
-        <div className="container py-4">
+        <div className="container py-4 mt-5">
                 <div className="cart-warpper">
                 <h3 className="text-left">Cart</h3>
                    
